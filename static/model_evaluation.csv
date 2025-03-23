@@ -1,0 +1,10 @@
+model,metric,value
+Linear Regression,MSE,0.21
+Linear Regression,MAE,0.31
+Linear Regression,R2,0.70
+Random Forest,MSE,0.15
+Random Forest,MAE,0.27
+Random Forest,R2,0.79
+K-Nearest Neighbors,MSE,0.16
+K-Nearest Neighbors,MAE,0.27
+K-Nearest Neighbors,R2,0.78
