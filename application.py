@@ -165,7 +165,7 @@ def home():
 @application.route('/visualization_data')
 def get_visualization_data():
     try:
-        df = pd.read_csv('CA - datasets/combined_dataset.csv')
+        df = pd.read_csv('ML_G14 - datasets/combined_dataset.csv')
         df = preprocess_data(df)
         
         

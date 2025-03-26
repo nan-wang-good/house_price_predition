@@ -2,7 +2,7 @@ import pandas as pd
 import os
 
 # Set working directory
-os.chdir('CA - datasets')
+os.chdir('ML_G14 - datasets')
 
 # Read data set
 daft = pd.read_csv('daft_housing_data.csv')
