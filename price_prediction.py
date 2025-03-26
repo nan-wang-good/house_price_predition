@@ -282,7 +282,7 @@ import joblib
 import os
 
 # Load data
-df = pd.read_csv('CA - datasets/combined_dataset.csv')
+df = pd.read_csv('ML_G14 - datasets/combined_dataset.csv')
 
 # data pre-processing
 def preprocess_data(df):
